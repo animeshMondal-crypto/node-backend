@@ -1,0 +1,19 @@
+{
+  "name": "adv",
+  "version": "1.0.0",
+  "description": "node project from youtube chai-aur-code channnel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "node"
+  ],
+  "author": "Animesh Mondal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1"
+  }
+}
